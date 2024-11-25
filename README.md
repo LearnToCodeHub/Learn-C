@@ -1,5 +1,7 @@
 # Recursos de Estudo
 
+This README gathers useful resources for learning C.
+
 Este README reúne recursos úteis para aprender C.
 
 ## C
