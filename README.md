@@ -1,4 +1,4 @@
-# Recursos de Estudo
+# Study Resources
 
 This README gathers useful resources for learning C.
 
