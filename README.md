@@ -4,6 +4,7 @@
 
 ### YouTube
 
+- **CS50**: [Harvard's introductory computer science course lecture on C, covering fundamental concepts and problem-solving techniques](https://www.youtube.com/watch?v=cwtpLIWylAw)
 - **dr Jonas Birch**: [In-depth overview of programming in C](https://www.youtube.com/watch?v=ve2l3yK37Jo&ab_channel=drJonasBirch)
 - **Bro Code**: [Learn C programming with practical examples](https://www.youtube.com/watch?v=87SH2Cn0s9A&ab_channel=BroCode)
 - **Caleb Curry**: [Introduction to fundamental C programming concepts](https://www.youtube.com/watch?v=Bz4MxDeEM6k&ab_channel=CalebCurry)
