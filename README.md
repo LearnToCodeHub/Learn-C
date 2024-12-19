@@ -15,6 +15,12 @@
 - **W3Schools C Tutorial**: [Learn C through interactive examples and well-structured content](https://www.w3schools.com/c/)
 - **Learn-C.org**: [Practical tutorials for learning C, including exercises and examples for beginners](https://www.learn-c.org/)
 
+  ### Books
+
+- **The C Book**: [A free online book covering fundamental and advanced C concepts in depth](https://publications.gbdirect.co.uk/c_book/)
+- **C Programming Language (Kernighan & Ritchie)**: [The classic reference book on C, essential for mastering the language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
+
+
 ---
 
 ## Recursos em Português
