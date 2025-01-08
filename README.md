@@ -15,6 +15,7 @@
 - **W3Schools C Tutorial**: [Learn C through interactive examples and well-structured content](https://www.w3schools.com/c/)
 - **Learn-C.org**: [Practical tutorials for learning C, including exercises and examples for beginners](https://www.learn-c.org/)
 
+
 ### Books
 
 - **The C Book**: [A free online book covering fundamental and advanced C concepts in depth](https://publications.gbdirect.co.uk/c_book/)
@@ -34,3 +35,5 @@
 
 - **W3Schools C Tutorial**: [Aprenda C com exemplos interativos e conteúdo bem estruturado](https://www.w3schools.com/c/)
 - **Learn-C.org**: [Tutoriais práticos para aprender C, incluindo exercícios e exemplos para iniciantes](https://www.learn-c.org/)
+- **C Programming Wiki (UFPR - Prof. Maziero)**: [Uma introdução abrangente à programação em C, com explicações e exemplos práticos](https://wiki.inf.ufpr.br/maziero/doku.php?id=c:start)
+
