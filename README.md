@@ -26,6 +26,19 @@
 
 ---
 
+## Projects
+
+- **GUI Task Management App**: [Learn how to build a graphical task management application ](https://www.youtube.com/watch?v=xf2W1wZozbk)  
+
+- **TCP Server**: [how to build a TCP server and understand socket programming fundamentals.](https://www.youtube.com/watch?v=QV77V_6ZQK4)
+
+-  **Building a Compiler in C**: [A full playlist guiding you through the process of building a compiler from scratch in C.](https://www.youtube.com/watch?v=-4RmhDy0A2s&list=PLRnI_2_ZWhtA_ZAzEa8uJF8wgGF0HjjEz)  
+
+
+- **How to Build a Compiler from Scratch**: [An introductory tutorial on the fundamentals of building a compiler from the ground up.](https://www.youtube.com/watch?v=HOe2YFnzO2I)  
+
+
+
 ## Recursos em Português
 
 ### YouTube
