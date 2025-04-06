@@ -9,6 +9,8 @@
 - **Bro Code**: [Learn C programming with practical examples](https://www.youtube.com/watch?v=87SH2Cn0s9A&ab_channel=BroCode)
 - **Caleb Curry**: [Introduction to fundamental C programming concepts](https://www.youtube.com/watch?v=Bz4MxDeEM6k&ab_channel=CalebCurry)
 - **freeCodeCamp**: [Detailed and intensive C programming course](https://www.youtube.com/watch?v=KJgsSFOSQv0&t=1s&ab_channel=freeCodeCamp.org)
+- **C Programming and Memory Management**: [A detailed video explaining core concepts of C programming and how memory management works.](https://www.youtube.com/watch?v=rJrd2QMVbGM)  
+
 
 ### Websites
 
